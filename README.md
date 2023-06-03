@@ -2,11 +2,7 @@
 <h3 align="center">A passionate backend developer and also have hands-on experience in building the front end of web applications.</h3>
 
 
-- 🔭 I’m currently working on [E-voting](https://github.com/thunderrk2001/evoting)
 
-- 🌱 I’m currently learning **React.js**
-
-- 🤝 I’m looking for help with [E-voting (To enhance UI)](https://github.com/thunderrk2001/evoting)
 
 - 💬 Ask me about **C++, DSA, Javascript, Node.js, Ethereum**
 
