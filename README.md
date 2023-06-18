@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **thunderrk2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bUssp-TB0I0snM7kOlYheF2D7AqXkTfV/view?usp=share_link](https://drive.google.com/file/d/1bUssp-TB0I0snM7kOlYheF2D7AqXkTfV/view?usp=share_link)
+- 📄 Know about my experiences [click](https://drive.google.com/file/d/1PW2d3wl5v8YFC4PLSNMeSpUnON6ewAPf/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
