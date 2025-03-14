@@ -4,7 +4,7 @@
 
 
 
-- 💬 Ask me about **C++, DSA, Javascript, Node.js, Ethereum**
+- 💬 Ask me about **C++, DSA, Javascript, Node.js, Mysql**
 
 - 📫 How to reach me **thunderrk2001@gmail.com**
 
